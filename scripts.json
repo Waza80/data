@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Legends Of Speed OP Script",
+    "features": ["OP orb and hoops farm", "Free exp, steps, and gems", "Auto rebirth", "Undetected auqto race", "Pet/trail duplication", "Manage your pets and trails", "And More!"],
+    "thumbnail": "/thumbnails/LOS.webp",
+    "load": "LegendsOfSpeed",
+    "id": 3101667897
+  },
+  {
+    "name": "Basically FNF Autoplayer",
+    "features": ["Autoplay notes", "Autofarm songs", "Various anti-detection methods", "Infinite Misses", "And more!"],
+    "thumbnail": "/thumbnails/BFNF.webp",
+    "load": "BasicallyFNF",
+    "id": 6520999642
+  },
+  {
+    "name": "DOORS Game Enhancer",
+    "features": ["Change your speed", "Enable jumping", "Enable third person", "Notify on monster spawn", "ESP to visualize everything", "Show the path to the next door", "And more!"],
+    "thumbnail": "/thumbnails/DOORS.webp",
+    "id": 6839171747
+  },
+  {
+    "name": "Frontlines Aimbot/ESP",
+    "features": ["Aimbot", "ESP with team check", "Character manipulation"],
+    "thumbnail": "/thumbnails/Frontlines.webp",
+    "id": 5938036553
+  },
+  {
+    "name": "Build A Boat For Treasure Autofarm",
+    "features": ["Autofarm gold", "Quick farm for more gold blocks"],
+    "thumbnail": "/thumbnails/BABFT.webp",
+    "load": "BuildABoat",
+    "id": 537413528
+  },
+  {
+    "name": "Destruction Simulator Game Destroyer",
+    "features": ["Destroy all areas", "Infinite money", "Get max level and rank", "And more!"],
+    "thumbnail": "/thumbnails/DSim.webp",
+    "load": "DestructionSimulator",
+    "id": 2248408710
+  }
+]
