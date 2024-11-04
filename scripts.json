@@ -4,39 +4,51 @@
     "features": ["OP orb and hoops farm", "Free exp, steps, and gems", "Auto rebirth", "Undetected auqto race", "Pet/trail duplication", "Manage your pets and trails", "And More!"],
     "thumbnail": "/thumbnails/LOS.webp",
     "load": "LegendsOfSpeed",
-    "id": 3101667897
+    "id": 3101667897,
+    "rscripts": "https://rscripts.net/script/op-script-farm-dupe-tp-and-more-nChH",
+    "scriptblox": "https://scriptblox.com/script/Legends-Of-Speed-OP-Farm-Pet-Dupe-13518"
   },
   {
     "name": "Basically FNF Autoplayer",
     "features": ["Autoplay notes", "Autofarm songs", "Various anti-detection methods", "Infinite Misses", "And more!"],
     "thumbnail": "/thumbnails/BFNF.webp",
     "load": "BasicallyFNF",
-    "id": 6520999642
+    "id": 6520999642,
+    "rscripts": "https://rscripts.net/script/autoplayer-lite-basically-fnf-remix-ZCH4",
+    "scriptblox": "https://scriptblox.com/script/Basically-FNF:-Remix-AutoPlayer-Lite-9989"
   },
   {
     "name": "DOORS Game Enhancer",
     "features": ["Change your speed", "Enable jumping", "Enable third person", "Notify on monster spawn", "ESP to visualize everything", "Show the path to the next door", "And more!"],
     "thumbnail": "/thumbnails/DOORS.webp",
-    "id": 6839171747
+    "id": 6839171747,
+    "rscripts": "https://rscripts.net/script/doors-script-game-enhancer-rpkv",
+    "scriptblox": "https://scriptblox.com/script/FLOOR-2-DOORS-Game-Enhancer-19323"
   },
   {
     "name": "Frontlines Aimbot/ESP",
     "features": ["Aimbot", "ESP with team check", "Character manipulation"],
     "thumbnail": "/thumbnails/Frontlines.webp",
-    "id": 5938036553
+    "id": 5938036553,
+    "rscripts": "https://rscripts.net/script/simple-script-aimbot-esp-jump-mWbh",
+    "scriptblox": "https://scriptblox.com/script/FRONTLINES-Aimbot-ESP-Jump-Power-19750"
   },
   {
     "name": "Build A Boat For Treasure Autofarm",
     "features": ["Autofarm gold", "Quick farm for more gold blocks"],
     "thumbnail": "/thumbnails/BABFT.webp",
     "load": "BuildABoat",
-    "id": 537413528
+    "id": 537413528,
+    "rscripts": "https://rscripts.net/script/babft-auto-farm-gold-17bp",
+    "scriptblox": "https://scriptblox.com/script/Build-A-Boat-For-Treasure-utoFrm-Gold-13684"
   },
   {
     "name": "Destruction Simulator Game Destroyer",
     "features": ["Destroy all areas", "Infinite money", "Get max level and rank", "And more!"],
     "thumbnail": "/thumbnails/DSim.webp",
     "load": "DestructionSimulator",
-    "id": 2248408710
+    "id": 2248408710,
+    "rscripts": "https://rscripts.net/script/op-script-explode-everything-and-more-XO6g",
+    "scriptblox": "https://scriptblox.com/script/andx1F4A5-Destruction-Simulator-OP-Explode-Everything-And-More-15926"
   }
 ]
