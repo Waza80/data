@@ -2,6 +2,7 @@
   {
     "name": "Legends Of Speed OP Script",
     "features": ["OP orb and hoops farm", "Free exp, steps, and gems", "Auto rebirth", "Undetected auqto race", "Pet/trail duplication", "Manage your pets and trails", "And More!"],
+    "tags": ["key"],
     "thumbnail": "/thumbnails/LOS.webp",
     "load": "LegendsOfSpeed",
     "id": 3101667897,
@@ -11,6 +12,7 @@
   {
     "name": "Basically FNF Autoplayer",
     "features": ["Autoplay notes", "Autofarm songs", "Various anti-detection methods", "Infinite Misses", "And more!"],
+    "tags": ["free", "key"],
     "thumbnail": "/thumbnails/BFNF.webp",
     "load": "BasicallyFNF",
     "id": 6520999642,
@@ -20,6 +22,7 @@
   {
     "name": "DOORS Game Enhancer",
     "features": ["Change your speed", "Enable jumping", "Enable third person", "Notify on monster spawn", "ESP to visualize everything", "Show the path to the next door", "And more!"],
+    "tags": ["key"],
     "thumbnail": "/thumbnails/DOORS.webp",
     "id": 6839171747,
     "rscripts": "https://rscripts.net/script/doors-script-game-enhancer-rpkv",
@@ -28,6 +31,7 @@
   {
     "name": "Frontlines Aimbot/ESP",
     "features": ["Aimbot", "ESP with team check", "Character manipulation"],
+    "tags": ["key"],
     "thumbnail": "/thumbnails/Frontlines.webp",
     "id": 5938036553,
     "rscripts": "https://rscripts.net/script/simple-script-aimbot-esp-jump-mWbh",
@@ -36,6 +40,7 @@
   {
     "name": "Build A Boat For Treasure Autofarm",
     "features": ["Autofarm gold", "Quick farm for more gold blocks"],
+    "tags": ["free"],
     "thumbnail": "/thumbnails/BABFT.webp",
     "load": "BuildABoat",
     "id": 537413528,
@@ -45,6 +50,7 @@
   {
     "name": "Destruction Simulator Game Destroyer",
     "features": ["Destroy all areas", "Infinite money", "Get max level and rank", "And more!"],
+    "tags": ["free"],
     "thumbnail": "/thumbnails/DSim.webp",
     "load": "DestructionSimulator",
     "id": 2248408710,
