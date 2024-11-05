@@ -24,6 +24,7 @@
     "features": ["Change your speed", "Enable jumping", "Enable third person", "Notify on monster spawn", "ESP to visualize everything", "Show the path to the next door", "And more!"],
     "tags": ["key"],
     "thumbnail": "/thumbnails/DOORS.webp",
+    "load": "DOORS",
     "id": 6839171747,
     "rscripts": "https://rscripts.net/script/doors-script-game-enhancer-rpkv",
     "scriptblox": "https://scriptblox.com/script/FLOOR-2-DOORS-Game-Enhancer-19323"
@@ -33,6 +34,7 @@
     "features": ["Aimbot", "ESP with team check", "Character manipulation"],
     "tags": ["key"],
     "thumbnail": "/thumbnails/Frontlines.webp",
+    "load": "Frontlines",
     "id": 5938036553,
     "rscripts": "https://rscripts.net/script/simple-script-aimbot-esp-jump-mWbh",
     "scriptblox": "https://scriptblox.com/script/FRONTLINES-Aimbot-ESP-Jump-Power-19750"
